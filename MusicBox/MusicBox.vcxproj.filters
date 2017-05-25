@@ -21,5 +21,11 @@
     <ClInclude Include="__vm\.MusicBox.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Notes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TakeOnMe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

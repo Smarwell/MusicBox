@@ -52,11 +52,6 @@ extern "C" void __cxa_pure_virtual() {;}
 #define PSTR(string_literal) ((const PROGMEM char *)(string_literal))")
 
 //
-inline void fancy_delay(long int microseconds);
-inline void set_timer();
-inline void fancier_delay(long int microseconds);
-void tone(float freq, int mills);
-void tone(float freq1, float freq2, int mills);
 //
 #include "MusicBox.ino"
 #endif
